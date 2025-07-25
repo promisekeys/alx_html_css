@@ -16,3 +16,6 @@ It includes simple HTML pages styled with **base.css** for global rules and **st
 
 ## 📂 Project Structure
 
+## link to localhost below
+## click here:http://127.0.0.1:5500/index.html
+## click here: http://127.0.0.1:5500/tweets.html
