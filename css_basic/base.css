@@ -1,0 +1,33 @@
+
+/* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #f8f8f8;
+  color: #444;
+  padding: 20px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #444;
+  margin-bottom: 10px;
+}
+
+/* Links */
+a {
+  color: #971616;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+/*
